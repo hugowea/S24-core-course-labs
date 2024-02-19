@@ -4,11 +4,9 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Environment-specific ignores
-venv/
-.env
-
 # IDE-specific ignores
 .vscode/
 .idea/
 *.sublime-*
+
+secrets
